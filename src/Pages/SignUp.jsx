@@ -26,6 +26,9 @@ function Signup() {
       console.log(error);
     }
   };
+
+  console.log(user);
+
   return (
     <>
       <section className="login-section ">

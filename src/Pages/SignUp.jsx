@@ -48,7 +48,7 @@ function Signup() {
             </label>
             <input
               className="text-[1.7rem] px-8 py-4 mb-10 w-full outline-[#ff0336] "
-              placeholder="gymate@gymail.com"
+              placeholder="Email"
               type="email"
               onChange={(e) => setEmail(e.target.value)}
             ></input>
@@ -58,7 +58,7 @@ function Signup() {
             </label>
             <input
               className="text-[1.7rem] px-8 py-4 mb-10 w-full outline-[#ff0336] "
-              placeholder="password"
+              placeholder="Password"
               type="password"
               onChange={(e) => setPassword(e.target.value)}
             ></input>

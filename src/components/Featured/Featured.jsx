@@ -7,6 +7,9 @@ function Featured() {
       top: 0,
     });
   };
+
+  console.log(goTop);
+
   return (
     <>
       <section id="featured" className="page-padding py-[12.5rem] bg-white">

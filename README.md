@@ -49,7 +49,7 @@ Follow these steps to set up My Chat App locally on your machine:
 2. Install project dependencies:
 
    ```bash
-   cd My-Chat-App
+   cd Fitflex
    npm install
    ```
 

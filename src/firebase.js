@@ -8,7 +8,7 @@ const firebaseConfig = {
   projectId: "fitflex-cfcab",
   storageBucket: "fitflex-cfcab.appspot.com",
   messagingSenderId: "242822208852",
-  appId: "1:242822208852:web:8ebf900a9574f5c0287cc1"
+  appId: "1:242822208852:web:ce27496ed5821661287cc1"
 };
 
 const app = initializeApp(firebaseConfig);

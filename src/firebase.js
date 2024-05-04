@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBeDQDBBPPe9UDdqvQPvbl_ciRkpVJTE6M",
-  authDomain: "fitflex-21c1f.firebaseapp.com",
-  projectId: "fitflex-21c1f",
-  storageBucket: "fitflex-21c1f.appspot.com",
-  messagingSenderId: "288917221632",
-  appId: "1:288917221632:web:396d7c62a31c191d2dc3e5"
+  apiKey: "AIzaSyASopBcG5m7K_09n8PUiGbg7M5ANQFYREk",
+  authDomain: "fitflex-cfcab.firebaseapp.com",
+  projectId: "fitflex-cfcab",
+  storageBucket: "fitflex-cfcab.appspot.com",
+  messagingSenderId: "242822208852",
+  appId: "1:242822208852:web:8ebf900a9574f5c0287cc1"
 };
 
 const app = initializeApp(firebaseConfig);

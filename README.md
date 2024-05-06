@@ -140,7 +140,7 @@ Follow these steps to set up My Chat App locally on your machine:
 
 ## Contributing
 
-We welcome contributions from the community. To contribute to My Chat App, follow these steps:
+We welcome contributions from the community. To contribute to Fitflex, follow these steps:
 
 1. Fork the repository.
 
